@@ -1,0 +1,24 @@
+**Heart Disease Classification using XGBoost**
+
+This notebook implements an XGBoost classifier to predict cholesterol levels from a heart disease dataset. It covers:
+
+- Data preprocessing and encoding
+- Model training using XGBoost
+- Performance evaluation (accuracy, confusion matrix)
+- Feature importance using SHAP
+
+*Dataset*
+Heart Disease dataset (Excel format)
+
+*Libraries used*
+- pandas, numpy, matplotlib, seaborn
+- xgboost
+- shap
+- scikit-learn
+
+*Output*
+- Model accuracy
+- Confusion matrix visualization
+- SHAP feature importance plot
+
+**Author** --> Apurv Shinde
